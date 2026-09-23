@@ -1,0 +1,15 @@
+### Bài 2.1 — Lựa chọn giấy phép phù hợp
+
+**Dự án được chọn:** Thư viện Python xử lý tiếng Việt muốn được sử dụng rộng rãi nhất có thể.
+
+**Giấy phép đề xuất: MIT License**
+
+Tôi lựa chọn **MIT License** cho dự án thư viện Python xử lý tiếng Việt vì mục tiêu chính của dự án là được sử dụng rộng rãi nhất có thể. MIT License là một giấy phép mã nguồn mở có tính linh hoạt cao, cho phép người dùng sử dụng, sao chép, chỉnh sửa, hợp nhất, xuất bản, phân phối và bán phần mềm. Vì vậy, thư viện có thể được sử dụng trong nhiều loại dự án khác nhau, từ các dự án cá nhân, nghiên cứu, giáo dục cho đến các sản phẩm thương mại.
+
+Một ưu điểm quan trọng của MIT License là **không yêu cầu các dự án sử dụng thư viện phải công khai mã nguồn**. Điều này giúp các công ty có thể tích hợp thư viện xử lý tiếng Việt vào phần mềm đóng nguồn của họ mà không gặp yêu cầu phải mở mã nguồn toàn bộ sản phẩm. Đây là yếu tố quan trọng nếu mục tiêu của tác giả là tối đa hóa số lượng người và tổ chức có thể sử dụng thư viện.
+
+MIT License cũng có các điều khoản tương đối đơn giản và ngắn gọn, giúp người phát triển dễ hiểu và dễ tuân thủ hơn so với những giấy phép có nhiều điều kiện hơn. Người sử dụng chỉ cần giữ lại thông báo bản quyền và nội dung giấy phép khi phân phối phần mềm.
+
+Ngoài ra, MIT License vẫn cho phép người khác sửa đổi và phát triển thư viện. Điều này có thể tạo ra nhiều phiên bản cải tiến, các đóng góp từ cộng đồng và giúp thư viện được áp dụng vào nhiều trường hợp thực tế hơn. Tuy nhiên, MIT License không bắt buộc những cải tiến đó phải được đóng góp ngược lại cho dự án gốc.
+
+Vì vậy, xét theo mục tiêu **phổ biến và được sử dụng rộng rãi nhất có thể**, MIT License là lựa chọn phù hợp cho thư viện Python xử lý tiếng Việt. Nó tạo sự cân bằng giữa quyền tự do sử dụng, khả năng tích hợp vào phần mềm thương mại và sự thuận tiện cho cộng đồng phát triển.
